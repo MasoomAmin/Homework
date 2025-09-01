@@ -1,7 +1,6 @@
 
 ---------------------------------------------------------
 -- PL/SQL Exercises Solutions (1–17)
--- Generated for practice
 ---------------------------------------------------------
 
 -- Exercise 1: Annual Salary
